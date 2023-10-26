@@ -1,4 +1,4 @@
-### *Olá 👋, me chamo André Pozzi*
+### *Olá 👋, me chamo André*
 
 <em>Atualmente aluno de Desenvolvimento de Sistemas apaixonado por programação com foco em IA e Banco de Dados</em>
 
